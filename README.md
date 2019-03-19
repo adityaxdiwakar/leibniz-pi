@@ -18,7 +18,7 @@ Ruby:
 ruby ruby.rb
 ```
 
-C
+C:
 ```
 gcc c.c -o output && ./output
 ```
